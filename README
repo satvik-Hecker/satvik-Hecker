@@ -23,14 +23,16 @@ Skills & Tools
 -----------------
 Featured Projects
 
-● Ossium
-  ✦ Free open-source helper to discover, track and contribute to GitHub projects.
-    Trending feed, PR/Issue manager, GSoC ready, realtime checks, no login needed for core features.
-  ✦ Links: https://ossium.live
+● Time Overflowed
+  ✦ Free open-source chrome extension that automatically tracks time spent on each website domain and provides users with detailed
+    daily and weekly usage statistics for enhanced productivity insights.
+  ✦ Tools Used: HTML, CSS, Javascript, Chrome APIs, Manifest v3.
 
-● mx-icons
-  ✦ Lightweight React icon library with 5000+ clean SVG icons.
-  ✦ Links: https://mx-icons.vercel.app • https://github.com/ig-imanish/mx-icons • NPM
+● Curly Brackets
+  ✦ Full-stack learning platform that lets users track their progress across web development topics with secure auth, persistent lesson data, and badge-based milestones.
+  ✦ Applies best practices for secure auth, robust database‑backed progress tracking, and a beautiful, mobile‑first UI that works smoothly across devices.
+  ✦ Tools Used: Next.js, TypeScript, Tailwind, Supabase, Framer Motion
+  ✦ Links: https://curlybrackets.vercel.app/
 
 ● City Care
   ✦ Civic complaint platform connecting citizens and municipal authorities.
