@@ -33,11 +33,12 @@ Featured Projects
   ✦ Tools Used: Next.js, TypeScript, Tailwind, Supabase, Framer Motion
   ✦ Links: https://curlybrackets.vercel.app/
 
-● Weave (in progress)
-  ✦ Compiles structured user input into role-optimized portfolio source code with dynamic template injection.
-  ✦ Abstracts themes into reusable UI modules and programmatically hydrates them with user-specific data.
-  ✦ Generates deployment-ready static assets with scalable component architecture for rapid customization.
-  ✦ Links: https://github.com/satvik-Hecker/weave
+● Vyay 
+  ✦ Full-stack personal finance tracker that lets users log, categorize, and analyze expenses through an interactive dashboard with donut charts, trend lines, and real-time budget insights.
+  ✦ Features an AI-powered finance assistant via Gemini API that analyzes transactions, suggests budgets, and provides personalized saving recommendations.
+  ✦ Applies backend best practices including JWT auth, rate limiting, cursor-based pagination, MongoDB indexing, and query optimization for a secure, scalable API.
+  ✦ Tools Used: Next.js, Express.js, MongoDB, Tailwind CSS, Recharts, Gemini API
+  ✦ Links: https://vyay.site/
 
 --------------------------
 Thanks for stopping by! :)
